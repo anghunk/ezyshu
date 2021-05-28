@@ -9,7 +9,7 @@
 
 博客地址：[https://shuxhan.com](https://shuxhan.com)，还在锻炼自己的文笔中，喜欢记录。
 
-我的邮箱是 `shuxhan@163.com` ，欢迎和我一起探讨一些技术上的问题，或者想和我聊聊人生也无妨。 💬
+我的邮箱是 `shuxhan@foxmail.com` ，欢迎和我一起探讨一些技术上的问题，或者想和我聊聊人生也无妨。 💬
 
 `Tm92OG5hbmE=` 和 `MTAyNDYwNTQyMg==` 是我的联系方式，欢迎解密哦～
 
