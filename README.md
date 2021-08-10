@@ -17,7 +17,7 @@
 
 the road ahead will be long and our climb will be steep.
 
-[![reng99's github stats](https://github-readme-stats.vercel.app/api?username=shuxhan&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![reng99's github stats](https://github-readme-stats.vercel.app/api?username=Nov8nana&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
