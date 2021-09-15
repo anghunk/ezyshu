@@ -1,23 +1,26 @@
 
 ## ME
 
-我是 shuxhan.坐标杭州。
+学习新思想，争做新青年，一个在杭州的新生代农民工。
 
-一个 coder，喜欢折腾一些技术，目前还在工作+努力学习ing，经常会记录一些东西在我的个人博客中，比如：编程笔记或者读书笔记等等，只要我感兴趣的，我都会写下来，也算是增长自己的见识。 :book:
+这是一个我在闲暇时间写的博客，会写一些生活琐事，也会写一些技术笔记。我的本意是想在生活中不断追寻新的感悟，因此博客叫做求索日记。
 
-爱好是游戏和音乐，最喜欢的歌手是许嵩。
+Blog: https://shuxhan.com
 
-博客地址：[https://shuxhan.com](https://shuxhan.com)，还在锻炼自己的文笔中，喜欢记录。
+E-mail: shuxhan@163.com
 
-我的邮箱是 `shuxhan@163.com` ，欢迎和我一起探讨一些技术上的问题，或者想和我聊聊人生也无妨。 💬
+Github: https://github.com/Nov8nana
 
-`Tm92OG5hbmE=` 和 `MTAyNDYwNTQyMg==` 是我的联系方式，欢迎解密哦～
-
-我很喜欢的一句话。
+欢迎和我一起探讨一些问题，或者聊聊人生与理想。
 
 the road ahead will be long and our climb will be steep.
 
-[![reng99's github stats](https://github-readme-stats.vercel.app/api?username=Nov8nana&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+2021年的新年愿望是可以 new 一个对象！ —2021
 
+关于评论，我使用的 Gitalk，省去了我自己维护的时间，只要部署上去了，自动存储在 Github 仓库的 Issues 里了。
 
+但是吧，它又有一个弊端，必须本人点进去一个页面才可以在 Github 仓库中注册一个 Issues 。
 
+而我又比较懒，所以早期的一些文章我可能自己没有时间或者机会点进去，导致不能评论，如果你对谋篇文章感兴趣，可以在关于我页面滴一下我，说明你想在哪个文章评论，我会去注册一个 Issues，大概就是这些。（不过我估计看的人也没有几个）
+
+如果你想给我发一封邮件进行深刻讨论我也是很乐意的。
