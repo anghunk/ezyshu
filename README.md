@@ -1,18 +1,14 @@
 
 ## ME
 
-学习新思想，争做新青年，一个在杭州的新生代农民工。
+My name is zhangshuhan.
 
-这是一个我在闲暇时间写的博客，会写一些生活琐事，也会写一些技术笔记。我的本意是想在生活中不断追寻新的感悟，因此博客叫做求索日记。
+A coder, likes to toss some technology, is still working + studying hard, and often records something in my personal blog, such as: programming notes or reading notes, etc., as long as I am interested, I will write it down. It can be regarded as increasing their own knowledge. 📖
 
-Blog: https://shuxhan.com
+My hobbies are games and music, and my favorite singer is Xu Song.
 
-E-mail: shuxhan@163.com
+This is my [blog](https://shuxhan.com). I am still practicing my writing and I like to record.
 
-Github: https://github.com/Nov8nana
+My email address is shuxhan@163.com, welcome to discuss some technical issues with me, or if you want to talk about life with me, it’s okay. 💬
 
-欢迎和我一起探讨一些问题，或者聊聊人生与理想。
-
-the road ahead will be long and our climb will be steep.
-
-2021年的新年愿望是可以 new 一个对象！ —2021
+A sentence I like very much. 'the road ahead will be long and our climb will be steep.'
