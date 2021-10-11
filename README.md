@@ -11,4 +11,6 @@ This is my [blog](https://shuxhan.com). I am still practicing my writing and I l
 
 My email address is shuxhan@163.com, welcome to discuss some technical issues with me, or if you want to talk about life with me, it’s okay. 💬
 
+<img src="https://github-readme-stats.vercel.app/api?username=Nov8nana&show_icons=true"/>
+
 A sentence I like very much. 'the road ahead will be long and our climb will be steep.'
