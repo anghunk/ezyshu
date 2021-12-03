@@ -11,8 +11,6 @@ This is my [blog: https://xiabanlo.cn](https://xiabanlo.cn). I am still practici
 
 My email address is shuxhan@163.com, welcome to discuss some technical issues with me, or if you want to talk about life with me, it’s okay. 💬
 
-https://gv.halberd.cn/Nov8nana?theme=stroke-fill&active=3200ff&deactive=f1f1f1&len=8&speed=40&size=60&space=5&tail=1
-
 <img src="https://github-readme-stats.vercel.app/api?username=Nov8nana&show_icons=true"/>
 
 A sentence I like very much. 'the road ahead will be long and our climb will be steep.'
