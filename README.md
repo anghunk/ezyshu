@@ -8,7 +8,7 @@ A coder, likes to toss some technology, is still working + studying hard, and of
 
 My hobbies are games and music, and my favorite singer is Xu Song.
 
-A sentence I like very much. 'the road ahead will be long and our climb will be steep.'
+"A sentence I like very much. 'the road ahead will be long and our climb will be steep."
 
 
 ## 💭Lately
