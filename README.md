@@ -21,7 +21,6 @@ My hobbies are games and music, and my favorite singer is Xu Song.
 ![](https://img.shields.io/badge/Javascript-Learning-0066B8?style=flat-square&logo=HTML5&logoColor=ffffff) 
 ![](https://img.shields.io/badge/Vue-Learning-0066B8?style=flat-square&logo=PHP&logoColor=ffffff) 
 ![](https://img.shields.io/badge/PHP-Learning-0066B8?style=flat-square&logo=Cplusplus&logoColor=ffffff) 
-![](https://img.shields.io/badge/Python-Learning-0066B8?style=flat-square&logo=Python&logoColor=ffffff)
 
 ## ✒️Tools
 
