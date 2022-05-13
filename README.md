@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=anghunk&color=dc143c)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=anghunk&show_icons=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zburu&show_icons=true"/>
 
 A coder, likes to toss some technology, is still working + studying hard, and often records something in my personal blog, such as: programming notes or reading notes, etc., as long as I am interested, I will write it down. It can be regarded as increasing their own knowledge. 📖
 
