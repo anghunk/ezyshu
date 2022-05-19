@@ -2,16 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=anghunk&color=dc143c)
 
-<div style="float:right">
-<img src="https://github-readme-stats.vercel.app/api?username=zburu&show_icons=true&theme=tokyonight">
-</div>
-
 A coder, likes to toss some technology, is still working + studying hard, and often records something in my personal blog, such as: programming notes or reading notes, etc., as long as I am interested, I will write it down. It can be regarded as increasing their own knowledge. 📖
 
 My hobbies are games and music, and my favorite singer is Xu Song.
 
 "A sentence I like very much. 'the road ahead will be long and our climb will be steep."
-
+<div style="float:right">
+<img src="https://github-readme-stats.vercel.app/api?username=zburu&show_icons=true&theme=tokyonight">
+</div>
 
 ## 💭Lately
 
