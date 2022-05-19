@@ -1,8 +1,8 @@
-# This is zhangshuhan 👋
+# This is zburu 👋
 
 ![](https://komarev.com/ghpvc/?username=anghunk&color=dc143c)
 
-<div align=right>
+<div style="float:right">
 <img src="https://github-readme-stats.vercel.app/api?username=zburu&show_icons=true&theme=tokyonight">
 </div>
 
