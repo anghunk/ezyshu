@@ -1,4 +1,4 @@
-# This is zburu 👋
+# This is zsh 👋
 
 ![](https://komarev.com/ghpvc/?username=anghunk&color=dc143c)
 
