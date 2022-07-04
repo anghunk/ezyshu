@@ -8,7 +8,7 @@ My hobbies are games and music, and my favorite singer is Xu Song.
 
 "A sentence I like very much. 'the road ahead will be long and our climb will be steep."
 <div style="float:right">
-<img src="https://github-readme-stats.vercel.app/api?username=zburu&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=98fuel&show_icons=true&theme=tokyonight">
 </div>
 
 ## 💭Lately
