@@ -9,6 +9,8 @@ A coder, likes to toss some technology, is still working + studying hard, and of
 My hobbies are games and music, and my favorite singer is Xu Song.
 
 "A sentence I like very much. 'the road ahead will be long and our climb will be steep."
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=98fuel&layout=compact"><p>
 <div style="float:right">
 <img src="https://github-readme-stats.vercel.app/api?username=98fuel&show_icons=true&theme=tokyonight">
 </div>
@@ -26,7 +28,7 @@ My hobbies are games and music, and my favorite singer is Xu Song.
 
 ## ✒️Tools
 
-[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/) [![](https://img.shields.io/badge/iqoo-8-FF6A00?style=flat-square&logo=iqoo&logoColor=ffffff)](https://www.iqoo.com/) [![](https://img.shields.io/badge/VisualStudio-Code-0066B8?style=flat-square&logo=VisualStudio&logoColor=ffffff)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/Chrome-Surf-0066B8?style=flat-square&logo=MicrosoftEdge&logoColor=ffffff)](https://www.google.cn/chrome/)
+[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/) [![](https://img.shields.io/badge/Redmi-k50-FF6A00?style=flat-square&logo=iqoo&logoColor=ffffff)](https://www.mi.com/) [![](https://img.shields.io/badge/VisualStudio-Code-0066B8?style=flat-square&logo=VisualStudio&logoColor=ffffff)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/Chrome-Surf-0066B8?style=flat-square&logo=MicrosoftEdge&logoColor=ffffff)](https://www.google.cn/chrome/)
 
 ## 🔗Links
 
