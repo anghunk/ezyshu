@@ -1,4 +1,6 @@
-# This is zsh 👋
+## 👋 Welcome!
+
+![github-header-image](https://user-images.githubusercontent.com/65840178/177504957-17c30403-bdf0-49e6-9105-6954a9ddf0c5.png)
 
 ![](https://komarev.com/ghpvc/?username=anghunk&color=dc143c)
 
