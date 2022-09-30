@@ -1,8 +1,6 @@
 ## 👋 Welcome!
 
-![github-header-image](https://user-images.githubusercontent.com/65840178/177504957-17c30403-bdf0-49e6-9105-6954a9ddf0c5.png)
-
-![](https://komarev.com/ghpvc/?username=anghunk&color=dc143c)
+![zburu](https://count.getloli.com/get/@zburu?theme=rule34)
 
 A coder, likes to toss some technology, is still working + studying hard, and often records something in my personal blog, such as: programming notes or reading notes, etc., as long as I am interested, I will write it down. It can be regarded as increasing their own knowledge. 📖
 
