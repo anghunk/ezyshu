@@ -1,6 +1,6 @@
 ## 👋 Welcome!
 
-![zburu](https://count.zburu.com/get/?name=zburu)
+![zoer98](https://count.zburu.com/get/?name=zburu)
 
 A coder, likes to toss some technology, is still working + studying hard, and often records something in my personal blog, such as: programming notes or reading notes, etc., as long as I am interested, I will write it down. It can be regarded as increasing their own knowledge. 📖
 
@@ -8,9 +8,9 @@ My hobbies are games and music, and my favorite singer is Xu Song.
 
 "A sentence I like very much. 'the road ahead will be long and our climb will be steep."
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zburu&layout=compact"><p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoer98&layout=compact"><p>
 <div style="float:right">
-<img src="https://github-readme-stats.vercel.app/api?username=zburu&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=zoer98&show_icons=true&theme=tokyonight">
 </div>
 
 ## Latest Blog Posts
