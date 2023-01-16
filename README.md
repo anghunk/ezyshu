@@ -1,7 +1,5 @@
 ## 👋 Welcome!
 
-![zoer98](https://count.zburu.com/get/?name=zburu)
-
 A coder, likes to toss some technology, is still working + studying hard, and often records something in my personal blog, such as: programming notes or reading notes, etc., as long as I am interested, I will write it down. It can be regarded as increasing their own knowledge. 📖
 
 My hobbies are games and music, and my favorite singer is Xu Song.
