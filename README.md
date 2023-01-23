@@ -34,6 +34,6 @@ My hobbies are games and music, and my favorite singer is Xu Song.
 ## 🔗Links
 
 * Blog: [https://zburu.com](https://zburu.com)
-* Email: [shuxhan@163.com](mailto:shuxhan@163.com)
+* Email: [me@zsh.im](mailto:me@zsh.im)
 
 welcome to discuss some technical issues with me, or if you want to talk about life with me, it’s okay. 💬
