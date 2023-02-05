@@ -13,6 +13,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=zoer98&show_icons=true&theme=tokyonight">
 </div>
 
+## 开源爱好者
+
+https://www.npmjs.com/package/pagedark 一个基于 vue2 的全局黑夜模式切换组件。
 
 ## 💭Lately
 
