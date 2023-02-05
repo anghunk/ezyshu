@@ -1,4 +1,6 @@
-## 👋 Welcome!
+## 👋 Welcome!I'm zishu.
+
+通常我在中文网络昵称叫【子舒】。
 
 前端程序员，喜欢折腾一些技术，研究各种奇怪的程序和网站，我将其记录在我的实验室中 😁[https://zburu.com/lab/](https://zburu.com/lab/)
 
@@ -8,29 +10,14 @@
 
 “路漫漫其修远兮。”
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoer98&layout=compact"><p>
-<div style="float:right">
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=zoer98&show_icons=true&theme=tokyonight">
 </div>
 
-## 开源爱好者
+## 🙉开源爱好者
 
 https://www.npmjs.com/package/pagedark 一个基于 vue2 的全局黑夜模式切换组件。
 
-## 💭Lately
-
-* Front-end development work
-* Research more logical writing and stick to writing
-
-## 💬Languages
-
-![](https://img.shields.io/badge/Javascript-Learning-0066B8?style=flat-square&logo=HTML5&logoColor=ffffff) 
-![](https://img.shields.io/badge/Vue-Learning-0066B8?style=flat-square&logo=PHP&logoColor=ffffff) 
-![](https://img.shields.io/badge/PHP-Learning-0066B8?style=flat-square&logo=Cplusplus&logoColor=ffffff) 
-
-## ✒️Tools
-
-[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/) [![](https://img.shields.io/badge/Redmi-k50-FF6A00?style=flat-square&logo=iqoo&logoColor=ffffff)](https://www.mi.com/) [![](https://img.shields.io/badge/VisualStudio-Code-0066B8?style=flat-square&logo=VisualStudio&logoColor=ffffff)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/Chrome-Surf-0066B8?style=flat-square&logo=MicrosoftEdge&logoColor=ffffff)](https://www.google.cn/chrome/)
 
 ## 🔗Links
 
