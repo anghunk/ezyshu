@@ -22,6 +22,5 @@ https://www.npmjs.com/package/pagedark 一个基于 vue2 的全局黑夜模式�
 
 * Blog: [https://zburu.com](https://zburu.com)
 * E-mail: [shuxhan@163.com](mailto:shuxhan@163.com)
-* steam: https://steamcommunity.com/id/zoer98/
 
 欢迎和我讨论一些技术问题，或者想和我聊聊生活，都可以。💬
