@@ -14,7 +14,7 @@
 
 
 ## 🙉 open source project
-https://github.com/zoer98/openai-images 基于 openai api 生成图像。  
+
 https://www.npmjs.com/package/pagedark 一个基于 vue2 的全局黑夜模式切换组件。
 
 
