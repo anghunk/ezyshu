@@ -7,7 +7,7 @@
 还在工作+学习，经常在个人博客里记录一些东西，比如：编程，笔记以及随笔等，只要有兴趣，我都会记下来。也算是增长了自己的见识。📖
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=zoer98&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=lovezsh&show_icons=true&theme=tokyonight">
 </div>
 
 我的爱好是😎游戏和🎶音乐，最喜欢的歌手是许嵩，最喜欢的游戏是 csgo，以及对做开源这件事情很感兴趣并且充满热爱。
