@@ -2,7 +2,7 @@
 
 通常我在中文网络的昵称是【子舒】。
 
-前端程序员，喜欢折腾一些技术，研究各种奇怪的程序和网站。
+前端程序员，喜欢折腾一些技术，研究各种奇怪的程序和网站，做了一些开源的东西。
 
 😁这是我的博客 [https://zburu.com/](https://zburu.com/)
 
@@ -14,11 +14,7 @@
 
 我的爱好是😎游戏和🎶音乐，最喜欢的歌手是许嵩，最喜欢的游戏是 csgo，以及对做开源这件事情很感兴趣并且充满热爱。
 
-
-## 🙉 open source project
-
-https://www.npmjs.com/package/pagedark 一个基于 vue2 的全局黑夜模式切换组件。
-
+![](https://raw.githubusercontent.com/lovezsh/lovezsh/main/github-user-contribution.svg)
 
 ## 🔗 Links
 
