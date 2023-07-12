@@ -1,4 +1,4 @@
-## 👋 Welcome！ I'm lovezsh.
+## 👋 Welcome！ I'm zsh.
 
 通常我在中文网络的昵称是【子舒】。
 
