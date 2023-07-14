@@ -18,6 +18,6 @@
 
 ## 🔗 Links
 
-* E-mail: [med@zsh.im](mailto:med@zsh.im)
+* E-mail: [me@zsh.im](mailto:me@zsh.im)
 
 欢迎和我讨论一些技术问题，或者想和我聊聊生活，都可以。💬
