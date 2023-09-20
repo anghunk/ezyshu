@@ -8,15 +8,12 @@
 
 😁这是我的博客 [https://zishu.me](https://zishu.me)
 
+E-mail: anghunk@gmail.com
+
+欢迎和我讨论一些技术问题💬
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=zishume&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=98zi&show_icons=true&theme=tokyonight">
 </div>
 
-![](https://raw.githubusercontent.com/zishume/zishume/main/github-user-contribution.svg)
-
-## 🔗 Links
-
-* E-mail: anghunk@gmail.com
-
-欢迎和我讨论一些技术问题，或者想和我聊聊生活，都可以。💬
+![](https://raw.githubusercontent.com/98zi/98zi/main/github-user-contribution.svg)
