@@ -1,4 +1,4 @@
-## 👋 Welcome！ I'm zishu.
+## 👋 Welcome！
 
 我是子舒。
 
