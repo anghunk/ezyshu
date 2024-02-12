@@ -3,7 +3,7 @@
 ```js
 const author = {
   name: '子舒',
-  age: 24,
+  age: 25,
   tags: ['前端程序员', '独立博客作者', '骑行爱好者', '摄影爱好者', 'INFJ人格'],
   adress: '杭州',
   email: 'anghunk@gmail.com',
