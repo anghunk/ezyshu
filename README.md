@@ -1,4 +1,8 @@
-## 👋 Welcome！
+## 👋 Welcome Here！
+
+![GitHub followers](https://img.shields.io/github/followers/98zi?style=flat&color=%23ee0000)
+
+欢迎加入 Discord 交流群~ [https://discord.gg/mnz75fMQ7c](https://discord.gg/mnz75fMQ7c)
 
 ```js
 const author = {
@@ -18,3 +22,7 @@ const author = {
 </div>
 
 ![](https://raw.githubusercontent.com/98zi/98zi/main/github-user-contribution.svg)
+
+## GitHub Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=98zi&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
