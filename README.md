@@ -1,8 +1,7 @@
-## 👋 Welcome Here！
-
-![GitHub followers](https://img.shields.io/github/followers/dlzmoe?style=flat&color=%23ee0000)
-
+## 😊Welcome here
 欢迎加入 Discord 交流群~ [https://discord.gg/mnz75fMQ7c](https://discord.gg/mnz75fMQ7c)
+
+<img align="center" src="https://github-readme-stats-xcanwin.vercel.app/api?username=dlzmoe&show_icons=true&theme=algolia&hide=contribs,prs" alt="Anurag's github stats" />
 
 ```js
 const author = {
@@ -17,12 +16,6 @@ const author = {
 }
 ```
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=dlzmoe&show_icons=true&theme=tokyonight">
-</div>
-
-![](https://raw.githubusercontent.com/dlzmoe/dlzmoe/main/github-user-contribution.svg)
-
-## GitHub Profile Trophy 🏆
+## 🏆GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dlzmoe&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
