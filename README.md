@@ -77,3 +77,5 @@ const author = {
 **🏆GitHub Profile Trophy**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dlzmoe&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/anghunk)
