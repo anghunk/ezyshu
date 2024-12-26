@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 🚀 About Me
 - 🔭 I’m currently working on [linuxdo-scripts](/dlzmoe/linuxdo-scripts)
 - 📫 How to reach me: [Email](mailto:anghunk@gmail.com)
+- ✒️ You can visit [my blog](https://zishu.me/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Like outdoor sports
 
