@@ -29,6 +29,7 @@
 
 *  **[LinuxDo Scripts](https://github.com/dlzmoe/linuxdo-scripts)** - LinuxDo Scripts 是一个功能丰富的浏览器扩展，旨在提升 LinuxDo 论坛的使用体验。它集成了多项实用功能，从基础的界面优化到高级的 AI 辅助功能，让您的论坛浏览和互动体验更加流畅和高效。
 *  **[AI Tags Generator](https://github.com/dlzmoe/obsidian-ai-tags)** - 一个强大的 Obsidian 插件，使用 AI 技术为笔记文件智能生成标签，帮助你更好地组织和管理知识库。
+*  **[UserScript](https://github.com/dlzmoe/UserScript)** - 自用的 GM 油猴脚本，一部分脚本已经发布到 greasyfork.org，一部分在本地未发布，功能列表在 README.md 中说明。
 
 ---
 
