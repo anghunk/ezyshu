@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  ✨ <span style="font-size: 1.5em; font-weight: bold; color: #007bff;">生活第一要素，保持情绪稳定</span> ✨<br>
+  ✨ <span style="font-size: 1.5em; font-weight: bold; color: #007bff;">社交ID：子舒</span> ✨<br>
   💡 <span style="font-size: 1.2em; color: #6c757d;">一个热爱生活的前端程序猿</span> 💡
 </div>
 
