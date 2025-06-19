@@ -32,6 +32,7 @@
 **Obsidian Plugin**
 *  **[AI Tags Generator](https://github.com/dlzmoe/obsidian-ai-tags)** - 使用 AI 技术为笔记文件智能生成标签，帮助你更好地组织和管理知识库。
 *  **[Obsidian Home](https://github.com/dlzmoe/obsidian-home)** - 为 Obsidian 添加一个美观实用的首页功能，便于快速访问和搜索笔记。
+
 ---
 
 ## 🚀 已部署的在线服务
