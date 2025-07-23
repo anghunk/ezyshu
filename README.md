@@ -30,6 +30,7 @@
 *  **[UserScript](https://github.com/ezyshu/UserScript)** - 这是一个实用的油猴脚本（UserScript）集合仓库，包含了多个实用的浏览器增强脚本。这些脚本旨在提升网页浏览体验，增加网站功能，优化用户界面等。
 *  **[FlareAlbum](https://github.com/ezyshu/flarealbum)** - FlareAlbum 是一个基于 Vue 3 和 Ant Design Vue 构建的图床管理工具，专为 Cloudflare R2 存储设计。通过直观的界面，您可以轻松上传、管理和分享图片，同时获得 Cloudflare CDN 的全球加速优势。
 *  **[极简 ToDo](https://github.com/ezyshu/utools-todo)** - uTools 插件，一个简洁、高效的待办事项管理工具，帮助你轻松组织和完成任务。
+*  **[AquaBuddy - 喝水小助手 🐳](https://github.com/ezyshu/AquaBuddy)** - AquaBuddy 是一个可爱风格的浏览器扩展，帮助您记录每日饮水情况。通过简单直观的界面，让您轻松养成健康的饮水习惯。
 
 **Obsidian Plugin**
 *  **[AI Tags Generator](https://github.com/ezyshu/obsidian-ai-tags)** - 使用 AI 技术为笔记文件智能生成标签，帮助你更好地组织和管理知识库。
